@@ -1,0 +1,43 @@
+nav{ /*корешок*/
+  background: #B69C8D;
+  width: 10%;
+  position: fixed;
+  /* padding: 47px; */
+  box-sizing: border-box;
+  height: 100%;
+  display: block;
+  /* padding-bottom: 10px; */
+}
+
+.sidebar{
+  /* display: flex; */
+  align-items: baseline;
+}
+
+.sidebart{
+  font-size: 14pt;
+  font-weight: bold;
+  transform: rotate(-90deg);
+}
+
+.sb1{
+  margin-top: 50px;
+  height: 5%;
+}
+
+.sb2{
+  padding-left: 19px;
+  margin-top: 160px;
+  height: 5%;
+  align-items: flex-start;
+}
+
+.sb3{
+  margin-top: 145px;
+  height: 5%;
+}
+
+.sb4{
+  margin-top: 150px;
+  height: 5%;
+}

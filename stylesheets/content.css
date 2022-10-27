@@ -1,0 +1,68 @@
+body { -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+   font-family: 'Old Standard TT', serif;
+   background-color: #F3EEDA;
+}
+
+h1, h2, h3, p{
+  color: #2F201D;
+}
+
+h1, h2, h3{
+  font-weight: bold;
+  text-align: center;
+}
+
+h1{
+  font-size: 96pt;
+}
+
+h2{
+  font-size: 48pt;
+  border-top: 10px solid #EC563B;
+  border-bottom: 10px solid #EC563B;
+}
+
+p{
+  font-size: 24pt;
+  text-align: left;
+}
+
+.columnright1 p{
+  font-size: 20pt;
+  font-style: italic;
+}
+
+.columnright2 p{
+  font-size: 20pt;
+  font-style: italic;
+}
+
+.columnright3 p{
+  font-size: 20pt;
+  font-style: italic;
+}
+
+.columnright4 p{
+  font-size: 20pt;
+  font-style: italic;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.sidebart p{
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+a{
+  color: #2F201D;
+  text-decoration: none;
+}
+
+a:visited{
+  color: #3F518C;
+  text-decoration: none;
+}
